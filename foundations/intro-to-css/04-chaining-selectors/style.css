@@ -9,3 +9,8 @@
     width: 200px;
     height: 400px;
 }
+
+.original.proportioned,
+.original.distorted {
+    float: left;
+}
