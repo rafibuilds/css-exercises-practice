@@ -10,15 +10,15 @@ body {
 }
 
 .title {
-  background: #e3f4ff;
+  background: #e3f4ff; /* blue */
 }
 
 .content {
-  background: #e3f4ff;
+  background: #e3f4ff; /* blue */
 }
 
 .button-container {
-  background: #e3f4ff;
+  background: #e3f4ff; /* blue */
 }
 
 button {
