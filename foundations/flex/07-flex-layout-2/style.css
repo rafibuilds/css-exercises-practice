@@ -46,6 +46,10 @@ body {
   margin: 0;
 }
 
+.sidebar ul li {
+  margin-bottom: 16px;
+}
+
 .content {
   flex: 1;
   display: flex;
