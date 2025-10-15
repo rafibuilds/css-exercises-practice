@@ -75,9 +75,17 @@ button.cancel {
 
 div.header {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   font-weight: 700;
   font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.close-button {
+  margin-left: auto;
+}
+
+.text {
   margin-bottom: 10px;
 }
