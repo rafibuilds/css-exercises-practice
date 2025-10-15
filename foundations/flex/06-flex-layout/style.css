@@ -31,6 +31,7 @@ input {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 20px;
 }
 
 ul {
@@ -38,10 +39,14 @@ ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
-  gap: 10px
+  gap: 15px;
 }
 
 a {
   text-decoration: none;
   color: #242424;
+}
+
+a:hover {
+  color: rgb(117, 117, 117);
 }
