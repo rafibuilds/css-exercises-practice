@@ -26,6 +26,11 @@ input {
   width: 400px;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+}
+
 .header,
 .footer {
   display: flex;
