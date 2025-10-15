@@ -33,3 +33,9 @@ img {
   gap: 32px;
   text-align: center;
 }
+
+.items-cotainer {
+  display: flex;
+  gap: 52px;
+  justify-content: center;
+}
