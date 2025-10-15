@@ -50,3 +50,7 @@ a {
 a:hover {
   color: rgb(117, 117, 117);
 }
+
+.footer {
+  background-color: #eee;
+}
